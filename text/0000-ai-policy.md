@@ -1,11 +1,8 @@
-=============================
-Guidelines for using AI tools
-=============================
+## Guidelines for using AI tools
 
 The person submitting an issue or PR is responsible for its content, regardless of whether AI tools were used in its creation.  Generative AI tools can produce output quickly, but discretion, good judgment, and critical thinking are the foundation of all good contributions.  We value good code, concise accurate documentation, and well scoped PRs without unneeded code churn.
 
-Considerations for success
-==========================
+### Considerations for success
 
 Authors must review the work done by AI tooling in detail to ensure it actually makes sense before proposing it as a PR or filing it as an issue.
 
@@ -23,8 +20,7 @@ Whether you are using AI tools or not, keep the following principles in mind for
 
 Pay close attention to AI generated recommendations for testing changes.  Provide input about Python's testing principles when guiding an AI model.  Always review the output before opening a pull request or issue, including proposed PR or issue titles and descriptions.
 
-Acceptable uses
-===============
+### Acceptable uses
 
 Some of the acceptable uses of generative AI include:
 
@@ -32,8 +28,7 @@ Some of the acceptable uses of generative AI include:
 - Gaining understanding of existing code
 - Supplementing contributor knowledge for code, tests, and documentation
 
-Unacceptable uses
-=================
+### Unacceptable uses
 
 Maintainers may close issues and PRs that are not useful or productive, regardless of whether AI tools were used or not.
 
