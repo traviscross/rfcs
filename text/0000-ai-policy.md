@@ -12,10 +12,10 @@ Disclosure of the use of AI tools in the PR description is appreciated, while no
 
 Whether you are using AI tools or not, keep the following principles in mind for the quality of your contribution:
 
-- Consider whether the change is necessary
-- Make minimal, focused changes
-- Follow existing coding style and patterns
-- Write tests that exercise the change
+- Consider whether the change is necessary.
+- Make minimal, focused changes.
+- Follow existing coding style and patterns.
+- Write tests that exercise the change.
 - Keep backwards compatibility with prior releases in mind.  Existing tests may be ensuring specific API behaviors are maintained.
 
 Pay close attention to AI generated recommendations for testing changes.  Provide input about Python's testing principles when guiding an AI model.  Always review the output before opening a pull request or issue, including proposed PR or issue titles and descriptions.
@@ -24,9 +24,9 @@ Pay close attention to AI generated recommendations for testing changes.  Provid
 
 Some of the acceptable uses of generative AI include:
 
-- Assistance with writing comments, especially in a non-native language
-- Gaining understanding of existing code
-- Supplementing contributor knowledge for code, tests, and documentation
+- Assistance with writing comments, especially in a non-native language.
+- Gaining understanding of existing code.
+- Supplementing contributor knowledge for code, tests, and documentation.
 
 ### Unacceptable uses
 
