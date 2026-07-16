@@ -16,9 +16,9 @@ Whether you are using AI tools or not, keep the following principles in mind for
 - Make minimal, focused changes.
 - Follow existing coding style and patterns.
 - Write tests that exercise the change.
-- Keep backwards compatibility with prior releases in mind.  Existing tests may be ensuring specific API behaviors are maintained.
+- Keep our stability guarantees in mind.  Existing tests may be ensuring these are maintained.
 
-Pay close attention to AI generated recommendations for testing changes.  Provide input about Python's testing principles when guiding an AI model.  Always review the output before opening a pull request or issue, including proposed PR or issue titles and descriptions.
+Pay close attention to AI generated recommendations for testing changes.  Guide an AI model.  Always review the output before opening a pull request or issue, including proposed PR or issue titles and descriptions.
 
 ### Acceptable uses
 
