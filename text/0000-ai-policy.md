@@ -32,6 +32,6 @@ Some of the acceptable uses of generative AI include:
 
 Maintainers may close issues and PRs that are not useful or productive, regardless of whether AI tools were used or not.
 
-If a contributor repeatedly opens unproductive issues or PRs, they may be blocked from contributing to the project because it is disruptive and disrespectful of the maintainers time.
+If a contributor repeatedly opens unproductive issues or PRs, they may be blocked from contributing to the Project because it is disruptive and disrespectful of the maintainers time.
 
 It is not acceptable to alter or bypass existing tests, or remove desired functionality, in order to make a failing test pass.  Such changes are not a real fix.
